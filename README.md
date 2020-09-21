@@ -1,4 +1,4 @@
-# guruscv-dockerimg
+# cvguru-dockerimg
 
 Dockerfile for [pyimagesearch-gurus-course](https://gurus.pyimagesearch.com/courses/pyimagesearch-gurus-course/)
 It contains all the dependencies according to [this setup](https://gurus.pyimagesearch.com/setting-up-your-python-opencv-development-environment/)
