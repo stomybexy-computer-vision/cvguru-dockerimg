@@ -52,5 +52,7 @@ FROM jonsom/cvguru
 }
 
  ```
+ - Setup X11 forwarding in order to display image and graphs from the container. 
+ For Mac users, you can follow [this gist](https://gist.github.com/cschiewek/246a244ba23da8b9f0e7b11a68bf3285)
  
  That's it. You can open your project folder inside remote container with vscode.
